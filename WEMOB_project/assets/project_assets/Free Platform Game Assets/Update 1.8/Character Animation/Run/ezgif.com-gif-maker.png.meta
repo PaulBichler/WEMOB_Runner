@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "13975625-c583-42bd-8798-27096452f591",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "ezgif.com-gif-maker": {
+      "ver": "1.0.3",
+      "uuid": "2f2d94dc-6a9e-4af6-aa33-0eed5c040f1d",
+      "rawTextureUuid": "13975625-c583-42bd-8798-27096452f591",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 15,
+      "trimX": 57,
+      "trimY": 29,
+      "width": 3783,
+      "height": 131,
+      "rawWidth": 3888,
+      "rawHeight": 219,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

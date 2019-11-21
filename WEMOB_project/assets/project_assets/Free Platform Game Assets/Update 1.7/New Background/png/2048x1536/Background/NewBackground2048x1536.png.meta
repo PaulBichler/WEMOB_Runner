@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "ce4f9ccb-42fc-49fd-9197-cd05e2245039",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "NewBackground2048x1536": {
+      "ver": "1.0.3",
+      "uuid": "d52052ef-7c44-4d3f-b875-4aff5b59d040",
+      "rawTextureUuid": "ce4f9ccb-42fc-49fd-9197-cd05e2245039",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2048,
+      "height": 1537,
+      "rawWidth": 2048,
+      "rawHeight": 1537,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

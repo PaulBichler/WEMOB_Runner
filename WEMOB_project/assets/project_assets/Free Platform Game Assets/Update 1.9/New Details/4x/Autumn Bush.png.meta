@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "69de4560-45b1-415d-92d3-295bce748401",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Autumn Bush": {
+      "ver": "1.0.3",
+      "uuid": "06b775fc-bbe9-4bcc-a876-2cb268508715",
+      "rawTextureUuid": "69de4560-45b1-415d-92d3-295bce748401",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 257,
+      "rawWidth": 512,
+      "rawHeight": 257,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "9479b1b6-2919-4c0e-b4bd-fffdbf34576c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Winter Tree": {
+      "ver": "1.0.3",
+      "uuid": "d8dcb4c1-e744-4330-afb2-28e683431064",
+      "rawTextureUuid": "9479b1b6-2919-4c0e-b4bd-fffdbf34576c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 940,
+      "height": 1544,
+      "rawWidth": 940,
+      "rawHeight": 1544,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

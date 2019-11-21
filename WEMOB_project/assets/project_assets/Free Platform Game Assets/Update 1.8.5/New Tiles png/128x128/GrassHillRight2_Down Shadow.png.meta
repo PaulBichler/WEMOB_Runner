@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "fad152ac-5fc5-400b-99b6-e4e647d6d7d9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "GrassHillRight2_Down Shadow": {
+      "ver": "1.0.3",
+      "uuid": "77df4336-50a7-4632-b30f-79e69b966588",
+      "rawTextureUuid": "fad152ac-5fc5-400b-99b6-e4e647d6d7d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
